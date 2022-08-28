@@ -1,0 +1,104 @@
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Shoprite Inventory Management System.exe.config
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Shoprite Inventory Management System.exe
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Shoprite Inventory Management System.pdb
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Google.Protobuf.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.EntityFramework.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\MySqlConnector.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Buffers.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Memory.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Ubiety.Dns.Core.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\ZstdNet.dll
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\BouncyCastle.Crypto.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Google.Protobuf.pdb
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\Google.Protobuf.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.EntityFramework.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\MySqlConnector.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Buffers.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Memory.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.AccountForm.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Admin_Screen.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Attendant_Screen.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.CategoryForm.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Login.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Properties.Resources.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Screens.resources
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.GenerateResource.cache
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.CopyComplete
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.exe
+C:\Users\BrandedHustler\source\ShopRiteIMS\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.pdb
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.AssemblyReference.cache
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.AccountForm.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Admin_Screen.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Attendant_Screen.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.CategoryForm.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Login.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Properties.Resources.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite_Inventory_Management_System.Screens.resources
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.GenerateResource.cache
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.exe
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.pdb
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Shoprite Inventory Management System.exe.config
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Shoprite Inventory Management System.exe
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Shoprite Inventory Management System.pdb
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\BouncyCastle.Crypto.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.SqlServer.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Google.Protobuf.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\K4os.Hash.xxHash.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.EntityFramework.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\MySqlConnector.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Buffers.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Memory.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Ubiety.Dns.Core.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\ZstdNet.dll
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\BouncyCastle.Crypto.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\EntityFramework.SqlServer.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Google.Protobuf.pdb
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\Google.Protobuf.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\K4os.Hash.xxHash.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\MySql.Data.EntityFramework.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\MySqlConnector.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Buffers.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Memory.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FREDA\Desktop\new app\Shoprite Inventory Management System\obj\x86\Debug\Shoprite Inventory Management System.csproj.CopyComplete
